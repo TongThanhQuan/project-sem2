@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java/controller/CategoryController.java=UTF-8
+encoding//src/main/java/dao/ImplCategoryDAO.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/category/add.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/category/delete.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/category/list.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/category/update.jsp=UTF-8
+encoding//src/main/webapp/index.jsp=UTF-8
