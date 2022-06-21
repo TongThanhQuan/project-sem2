@@ -15,13 +15,11 @@ public class ImplUserDAO {
 
 		@Override
 		public List<User> selectByName(String fullname) {
-			// TODO Auto-generated method stub
 			return null;
 		}
 
 		@Override
 		public User detail(int id) {
-			// TODO Auto-generated method stub
 			return null;
 		}
 
